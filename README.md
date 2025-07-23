@@ -65,5 +65,5 @@ AIoT, 머신러닝, 웹 개발 등 다양한 분야에 도전하며 실질적인
 
 ---
 ### 📫 연락처
-- 📧 kyk981213@gmail.com
+- 📧 cabby288@naver.com
 - 📝 [Notion 포트폴리오](https://www.notion.so/AI-21027d9ee133803e8fe2c1f2517e4a72?source=copy_link)
